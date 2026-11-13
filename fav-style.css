@@ -1,0 +1,32 @@
+#my-fav
+{
+ text-align: center;
+}
+#nas
+{
+ text-align: center;
+ font-weight: bold;
+ color: grey;
+}
+#head1
+{
+ font-weight: bold;
+ color:rgb(42, 118, 231);
+ text-align: left;
+}
+#head2
+{
+ font-weight: bold;
+ color:rgb(42, 118, 231);
+ text-align: left;
+}
+#practice
+{
+ text-align: right;
+ color: red;
+}
+#create
+{
+ text-align: left;
+ color: grey;
+}
